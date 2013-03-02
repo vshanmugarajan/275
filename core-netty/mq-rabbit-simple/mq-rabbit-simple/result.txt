@@ -1,0 +1,8 @@
+Testsuite: gash.mq.rabbit.MQueuePublisherTest
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 10.39 sec
+------------- Standard Output ---------------
+connecting to localhost, port 5672
+messages sent
+------------- ---------------- ---------------
+
+Testcase: testPublishUsingBinding took 10.342 sec
